@@ -1,0 +1,58 @@
+body {
+    background: linear-gradient(to bottom, #001f3f, #7FDBFF);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+body h1.titulo-principal {
+    text-align: center !important;
+    color: white !important;
+    font-size: 2.5rem !important;
+    margin-bottom: 2rem !important;
+}
+
+
+.plato-nombre {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.descripcion {
+    font-size: 0.95rem;
+    color: #f1f1f1;
+}
+
+.precio,
+.calorias {
+    color: #e0e0e0;
+    font-size: 0.9rem;
+}
+
+.etiqueta {
+    font-size: 0.8rem;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.4);
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 576px) {
+    .titulo-principal {
+        font-size: 1.8rem;
+    }
+
+    .card {
+        font-size: 0.9rem;
+    }
+}

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <plato tipo="Entrante">
+        <nombre>Bruschetta</nombre>
+        <precio>5.00</precio>
+        <descripcion>Pan tostado con tomate, ajo y albahaca.</descripcion>
+        <calorias>180</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>Gazpacho andaluz</nombre>
+        <precio>4.50</precio>
+        <descripcion>Sopa fría de tomate con pimiento y pepino.</descripcion>
+        <calorias>150</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Paella Valenciana</nombre>
+        <precio>13.00</precio>
+        <descripcion>Arroz con pollo, conejo y verduras.</descripcion>
+        <calorias>700</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Ensalada César</nombre>
+        <precio>9.00</precio>
+        <descripcion>Lechuga romana con pollo, croutons y parmesano.</descripcion>
+        <calorias>450</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+            <categoria>carne</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Hamburguesa Gourmet</nombre>
+        <precio>11.00</precio>
+        <descripcion>Carne de ternera, queso cheddar y pan brioche.</descripcion>
+        <calorias>850</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>lacteo</categoria>
+            <categoria>Destacado</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Lasaña vegetal</nombre>
+        <precio>10.00</precio>
+        <descripcion>Lasaña de verduras al horno con bechamel.</descripcion>
+        <calorias>600</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Tacos de cochinita pibil</nombre>
+        <precio>12.00</precio>
+        <descripcion>Tacos de cerdo con cebolla encurtida y chile.</descripcion>
+        <calorias>700</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>picante</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Postre">
+        <nombre>Tiramisú</nombre>
+        <precio>6.00</precio>
+        <descripcion>Postre italiano con café y mascarpone.</descripcion>
+        <calorias>400</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Postre">
+        <nombre>Sorbete de limón</nombre>
+        <precio>4.00</precio>
+        <descripcion>Refrescante sorbete 100% natural.</descripcion>
+        <calorias>120</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Bebida">
+        <nombre>Zumo natural</nombre>
+        <precio>3.50</precio>
+        <descripcion>Zumo de frutas recién exprimido.</descripcion>
+        <calorias>100</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Bebida">
+        <nombre>Cerveza artesanal</nombre>
+        <precio>4.00</precio>
+        <descripcion>Cerveza local, rubia o tostada.</descripcion>
+        <calorias>160</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Postre">
+        <nombre>Brownie con helado</nombre>
+        <precio>5.50</precio>
+        <descripcion>Brownie de chocolate con bola de vainilla.</descripcion>
+        <calorias>550</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>Tabla de quesos</nombre>
+        <precio>7.00</precio>
+        <descripcion>Selección de quesos nacionales e internacionales.</descripcion>
+        <calorias>400</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+            <categoria>Destacado</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Pollo al curry</nombre>
+        <precio>11.00</precio>
+        <descripcion>Pollo en salsa de curry con arroz basmati.</descripcion>
+        <calorias>670</calorias>
+        <ingredientes>
+            <categoria>carne</categoria>
+            <categoria>picante</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>Hummus con pan pita</nombre>
+        <precio>5.50</precio>
+        <descripcion>Crema de garbanzos servida con pan árabe.</descripcion>
+        <calorias>300</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Pizza Margarita</nombre>
+        <precio>9.00</precio>
+        <descripcion>Clásica pizza de tomate, mozzarella y albahaca.</descripcion>
+        <calorias>750</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+            <categoria>vegetariano</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Entrante">
+        <nombre>Rollitos de primavera</nombre>
+        <precio>4.50</precio>
+        <descripcion>Rollitos de verduras fritos.</descripcion>
+        <calorias>250</calorias>
+        <ingredientes>
+            <categoria>vegetariano</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Postre">
+        <nombre>Crema catalana</nombre>
+        <precio>5.00</precio>
+        <descripcion>Clásico postre catalán con caramelo.</descripcion>
+        <calorias>320</calorias>
+        <ingredientes>
+            <categoria>lacteo</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Plato Principal">
+        <nombre>Tofu salteado con verduras</nombre>
+        <precio>10.00</precio>
+        <descripcion>Tofu marinado con vegetales al wok.</descripcion>
+        <calorias>480</calorias>
+        <ingredientes>
+            <categoria>vegano</categoria>
+        </ingredientes>
+    </plato>
+    <plato tipo="Bebida">
+        <nombre>Agua mineral</nombre>
+        <precio>1.50</precio>
+        <descripcion>Agua embotellada sin gas.</descripcion>
+        <calorias>0</calorias>
+        <ingredientes>
+            <categoria>sin gluten</categoria>
+        </ingredientes>
+    </plato>
+</menu>
